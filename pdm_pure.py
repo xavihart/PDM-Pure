@@ -16,13 +16,15 @@ def main():
     
     
     device = args.device
+    resampling = "10,0,0,0,0,0,0,0,0,0"
+    resampling = "10,10,10,10,10,0,0,0,0,0"
     
     # LOAD IMAGES
     image_p = args.image
     raw_pil_image = load_image(image_p)
     OUT_SHAPE = raw_pil_image.size
     raw_pil_image_mid = raw_pil_image.resize((256, 256))
-    
+
     # LOAD DEEPFLOYD MODELS
     if_II = IFStageII('IF-II-L-v1.0', device=device)
     if_III = StableStageIII('stable-diffusion-x4-upscaler', device=device)
@@ -42,7 +44,7 @@ def main():
             seed=0,
             if_II_kwargs={ 
                 "guidance_scale": 7,
-                "sample_timestep_respacing": "10,0,0,0,0,0,0,0,0,0",
+                "sample_timestep_respacing":  resampling,
                 "support_noise_less_qsample_steps": 5,
                 "low_res": raw_pil_image_mid
             },
