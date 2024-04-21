@@ -1,4 +1,4 @@
-# PDM-Pure: Simple Purification in One Python File
+# PDM-Pure: Simple&Effective Purification in Single Python Script
 
 
 > PDM-Pure is from our paper: Pixel is a Barrier: Rethinking Adversarial-Based Protection for Diffusion-Based Generation [coming soon]
@@ -34,8 +34,6 @@ For installaiton please refer to [DeepFloyd IF](https://github.com/deep-floyd/IF
 
 #### Protected by SDS [4]
 <img src="demo/sds/original.png" width="400" height="400"/><img src="demo/sds/purified.png" width="400" height="400"/>
-
-
 
 
 
