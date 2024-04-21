@@ -22,18 +22,18 @@ For installaiton please refer to [DeepFloyd IF](https://github.com/deep-floyd/IF
 ## Results 🔍
 
 #### Protected by AdvDM [1]
-<img src="demo/advdm/original.png" width="200" height="200"/><img src="demo/advdm/purified.png" width="200" height="200"/>
+<img src="demo/advdm/original.png" width="400" height="400"/><img src="demo/advdm/purified.png" width="400" height="400"/>
 
 #### Protected by Mist [2]
-<img src="demo/mist/original.png" width="200" height="200"/><img src="demo/mist/purified.png" width="200" height="200"/>
+<img src="demo/mist/original.png" width="400" height="400"/><img src="demo/mist/purified.png" width="400" height="400"/>
 
 
 #### Protected by Glaze [3]
-<img src="demo/glaze/original.png" width="200" height="200"/><img src="demo/glaze/purified.png" width="200" height="200"/>
+<img src="demo/glaze/original.png" width="400" height="400"/><img src="demo/glaze/purified.png" width="400" height="400"/>
 
 
 #### Protected by SDS [4]
-<img src="demo/sds/original.png" width="200" height="200"/><img src="demo/sds/purified.png" width="200" height="200"/>
+<img src="demo/sds/original.png" width="400" height="400"/><img src="demo/sds/purified.png" width="400" height="400"/>
 
 
 
