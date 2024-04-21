@@ -1,4 +1,4 @@
-# PDM-Pure: Simple&Effective Purification in Single Python Script
+# PDM-Pure: Effective Purification in One Simple Python Script
 
 
 > PDM-Pure is from our paper: Pixel is a Barrier: Rethinking Adversarial-Based Protection for Diffusion-Based Generation [coming soon]
