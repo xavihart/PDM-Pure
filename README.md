@@ -3,6 +3,12 @@
 
 > PDM-Pure is from our paper: Pixel is a Barrier: Rethinking Adversarial-Based Protection for Diffusion-Based Generation [coming soon]
 
+## TODO
+
+- [ ] Patch-based PDM-Pure to fit all resolutions
+- [ ] Make it flexible to change to strength
+- [ ] Release our paper
+
 
 ## Introduction
 
