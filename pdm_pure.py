@@ -17,7 +17,7 @@ def main():
     
     device = args.device
     resampling = "10,0,0,0,0,0,0,0,0,0"
-    resampling = "10,10,10,10,10,0,0,0,0,0"
+    # resampling = "10,10,10,10,10,0,0,0,0,0"
     
     # LOAD IMAGES
     image_p = args.image
